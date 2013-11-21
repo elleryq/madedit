@@ -1,0 +1,13 @@
+*.o
+.deps
+Makefile
+autom4te.cache/
+config.h
+config.h.in~
+config.log
+config.status
+po/Makefile
+po/Makefile.in
+po/POTFILES
+stamp-h1
+syntax/Makefile
